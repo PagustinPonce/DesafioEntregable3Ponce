@@ -1,0 +1,56 @@
+[
+	{
+		"id": 0,
+		"titulo": "Producto pueba",
+		"descripcion": "Este es un producto prueba",
+		"precio": 200,
+		"thumbnail": "sin imagen",
+		"stock": 25,
+		"code": "abc123"
+	},
+	{
+		"id": 1,
+		"titulo": "Producto pueba",
+		"descripcion": "Este es un producto prueba",
+		"precio": 200,
+		"thumbnail": "sin imagen",
+		"stock": 25,
+		"code": "abc124"
+	},
+	{
+		"id": 2,
+		"titulo": "Producto pueba",
+		"descripcion": "Este es un producto prueba",
+		"precio": 200,
+		"thumbnail": "sin imagen",
+		"stock": 25,
+		"code": "abc125"
+	},
+	{
+		"id": 3,
+		"titulo": "Producto pueba",
+		"descripcion": "Este es un producto prueba",
+		"precio": 200,
+		"thumbnail": "sin imagen",
+		"stock": 25,
+		"code": "abc126"
+	},
+	{
+		"id": 4,
+		"titulo": "Producto pueba",
+		"descripcion": "Este es un producto prueba",
+		"precio": 200,
+		"thumbnail": "sin imagen",
+		"stock": 25,
+		"code": "abc127"
+	},
+	{
+		"id": 5,
+		"titulo": "Producto pueba",
+		"descripcion": "Este es un producto prueba",
+		"precio": 200,
+		"thumbnail": "sin imagen",
+		"stock": 25,
+		"code": "abc128"
+	}
+]

@@ -1,0 +1,17 @@
+{
+  "name": "desafio-entregable-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "desafioEntregable3.js",
+  "scripts": {
+    "start": "node --watch app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Agustin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
